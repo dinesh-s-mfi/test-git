@@ -1,0 +1,2 @@
+export TAVILY_API_KEY="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"
+export LLM_API_KEY="your-tavily-api-key"
